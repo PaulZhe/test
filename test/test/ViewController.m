@@ -16,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //zz
+    UIView * view = [[UIView alloc] init];
+    //tqy
+    //jkw
     // Do any additional setup after loading the view, typically from a nib.
 }
 
